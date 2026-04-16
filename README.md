@@ -13,7 +13,27 @@
 
 ## Setup & Installation
 1.  **Clone the Repo**:
+2.  Install 
 ### Models used
 
 Downloading, extraction, and placing the models into the *assets* folder is
 managed automatically by the **download.gradle** file.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Disclaimer
+Portions of this code were tested and edited with sugguestions from google gemini AI
