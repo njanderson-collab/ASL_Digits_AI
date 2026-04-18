@@ -36,4 +36,4 @@ managed automatically by the **download.gradle** file.
 
 
 ## Disclaimer
-Portions of this code were tested and edited with suggestions from google gemini AI
+Portions of this code were tested and edited with suggestions from Android Studio's onboard AI to ensure compatibility
