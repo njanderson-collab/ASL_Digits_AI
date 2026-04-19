@@ -13,7 +13,11 @@
 
 ## Setup & Installation
 1.  **Clone the Repo**:
-2.  Install 
+2.  Install Android Studio at https://developer.android.com/studio
+3.  Launch the repo within Android Studio
+4.  Connect compatible Android device, make sure developer mode and USB debugging are turned on.
+5.  Build project and gradle
+6.  Run on Android Device
 ### Models used
 
 Downloading, extraction, and placing the models into the *assets* folder is
